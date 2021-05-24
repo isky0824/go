@@ -4,9 +4,9 @@
 
 ## 代码
 ```C++
-    int main() {
-        return 0;
-    }
+int main() {
+    return 0;
+}
 ```
 
 ## 链接
